@@ -1,0 +1,9 @@
+{
+    "episode_id": 1779893541,
+    "step": 3,
+    "action": "type_query",
+    "target": "hockey shorts",
+    "reward": 10,
+    "success": true,
+    "timestamp": 1779893578
+}

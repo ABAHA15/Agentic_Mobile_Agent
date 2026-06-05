@@ -1,0 +1,9 @@
+{
+    "episode_id": 1779894534,
+    "step": 7,
+    "action": "swipe_next",
+    "target": "next_reel",
+    "reward": 10,
+    "success": true,
+    "timestamp": 1779894566
+}

@@ -1,0 +1,9 @@
+{
+    "episode_id": 1779715298,
+    "step": 6,
+    "action": "open_app_page",
+    "target": "uno",
+    "reward": 10,
+    "success": true,
+    "timestamp": 1779715573
+}

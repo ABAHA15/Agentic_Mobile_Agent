@@ -1,0 +1,9 @@
+{
+    "episode_id": 1779911674,
+    "step": 1,
+    "action": "open_youtube",
+    "target": "youtube",
+    "reward": 10,
+    "success": true,
+    "timestamp": 1779911674
+}

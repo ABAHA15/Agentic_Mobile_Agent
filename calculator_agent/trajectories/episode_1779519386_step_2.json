@@ -1,0 +1,19 @@
+{
+    "episode_id": 1779519386,
+    "expression": "+",
+    "step": 2,
+    "target": "+",
+    "expected": "+",
+    "observed": "12.27pAll801Tc)()~8X5)6)=1)++I=~0)27)~9432",
+    "coordinate": [
+        936,
+        1916
+    ],
+    "predicted_coordinate": [
+        936,
+        1916
+    ],
+    "reward": 10,
+    "success": true,
+    "timestamp": 1779519438
+}

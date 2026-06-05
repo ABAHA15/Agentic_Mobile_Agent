@@ -1,0 +1,9 @@
+{
+    "episode_id": 1779892928,
+    "step": 4,
+    "action": "type_app_name",
+    "target": "candy crush",
+    "reward": 10,
+    "success": true,
+    "timestamp": 1779893017
+}

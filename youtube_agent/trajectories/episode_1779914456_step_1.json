@@ -1,0 +1,9 @@
+{
+    "episode_id": 1779914456,
+    "step": 1,
+    "action": "hidden_ui_exploration",
+    "target": "comments_panel",
+    "reward": 20,
+    "success": true,
+    "timestamp": 1779914456
+}

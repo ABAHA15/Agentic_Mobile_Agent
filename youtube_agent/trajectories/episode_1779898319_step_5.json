@@ -1,0 +1,9 @@
+{
+    "episode_id": 1779898319,
+    "step": 5,
+    "action": "open_first_reel",
+    "target": "first_reel",
+    "reward": 10,
+    "success": true,
+    "timestamp": 1779898387
+}

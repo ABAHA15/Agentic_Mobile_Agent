@@ -1,0 +1,9 @@
+{
+    "episode_id": 1779723772,
+    "step": 5,
+    "action": "press_enter",
+    "target": "enter",
+    "reward": 10,
+    "success": true,
+    "timestamp": 1779723863
+}

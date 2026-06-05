@@ -1,0 +1,9 @@
+{
+    "episode_id": 1779696893,
+    "step": 5,
+    "action": "open_app_page",
+    "target": "Blinkit",
+    "reward": 15,
+    "success": true,
+    "timestamp": 1779697282
+}

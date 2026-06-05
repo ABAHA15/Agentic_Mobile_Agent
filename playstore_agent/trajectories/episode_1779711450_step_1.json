@@ -1,0 +1,9 @@
+{
+    "episode_id": 1779711450,
+    "step": 1,
+    "action": "open_playstore",
+    "target": "Play Store",
+    "reward": 5,
+    "success": true,
+    "timestamp": 1779711450
+}

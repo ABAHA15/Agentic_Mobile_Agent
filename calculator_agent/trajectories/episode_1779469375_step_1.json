@@ -1,0 +1,15 @@
+{
+    "expression": "3+6",
+    "step": 1,
+    "target": "3",
+    "coordinate": [
+        666,
+        1962
+    ],
+    "predicted_coordinate": [
+        665,
+        1961
+    ],
+    "reward": 10,
+    "success": true
+}

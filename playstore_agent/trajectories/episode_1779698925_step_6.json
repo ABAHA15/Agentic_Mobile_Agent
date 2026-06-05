@@ -1,0 +1,9 @@
+{
+    "episode_id": 1779698925,
+    "step": 6,
+    "action": "tap_install",
+    "target": "Install",
+    "reward": -5,
+    "success": false,
+    "timestamp": 1779699385
+}

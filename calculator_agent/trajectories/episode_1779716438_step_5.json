@@ -1,0 +1,9 @@
+{
+    "episode_id": 1779716438,
+    "step": 5,
+    "action": "tap",
+    "target": "2",
+    "reward": -5,
+    "success": false,
+    "timestamp": 1779716625
+}

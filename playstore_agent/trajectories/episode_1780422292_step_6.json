@@ -1,0 +1,9 @@
+{
+    "episode_id": 1780422292,
+    "step": 6,
+    "action": "open_app_page",
+    "target": "myntra",
+    "reward": 10,
+    "success": true,
+    "timestamp": 1780422617
+}

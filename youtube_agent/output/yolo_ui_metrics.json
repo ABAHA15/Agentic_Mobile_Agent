@@ -1,0 +1,10 @@
+{
+    "total_ui_elements": 5,
+    "average_confidence": 0.5235,
+    "strong_detections": 2,
+    "ui_classes_detected": {
+        "Icon": 1,
+        "button": 3,
+        "ImageView": 1
+    }
+}

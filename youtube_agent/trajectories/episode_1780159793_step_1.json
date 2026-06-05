@@ -1,0 +1,14 @@
+{
+    "episode_id": 1780159793,
+    "step": 1,
+    "action": "like_reel",
+    "target": "reel_1",
+    "reward": 10,
+    "success": true,
+    "timestamp": 1780159793,
+    "x": 679,
+    "y": 1880,
+    "confidence": 1.0,
+    "class_name": "Subscribe",
+    "bbox": null
+}

@@ -1,0 +1,7 @@
+{
+    "total_steps": 90,
+    "successful_steps": 76,
+    "failed_steps": 14,
+    "accuracy": 84.44,
+    "average_reward": 7.72
+}

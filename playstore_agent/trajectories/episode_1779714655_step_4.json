@@ -1,0 +1,9 @@
+{
+    "episode_id": 1779714655,
+    "step": 4,
+    "action": "type_app_name",
+    "target": "swiggy",
+    "reward": 10,
+    "success": true,
+    "timestamp": 1779714849
+}

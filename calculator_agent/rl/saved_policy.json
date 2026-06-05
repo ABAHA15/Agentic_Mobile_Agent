@@ -1,0 +1,37 @@
+{
+    "5": {
+        "best_dx": 1,
+        "best_dy": 0,
+        "best_reward": 10
+    },
+    "+": {
+        "best_dx": -2,
+        "best_dy": -1,
+        "best_reward": 10
+    },
+    "=": {
+        "best_dx": 1,
+        "best_dy": 0,
+        "best_reward": 10
+    },
+    "6": {
+        "best_dx": -3,
+        "best_dy": 2,
+        "best_reward": 10
+    },
+    "-": {
+        "best_dx": 3,
+        "best_dy": 0,
+        "best_reward": 10
+    },
+    "8": {
+        "best_dx": 1,
+        "best_dy": 0,
+        "best_reward": 10
+    },
+    "3": {
+        "best_dx": -1,
+        "best_dy": -1,
+        "best_reward": 10
+    }
+}

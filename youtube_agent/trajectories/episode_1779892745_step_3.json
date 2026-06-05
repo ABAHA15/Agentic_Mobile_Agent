@@ -1,0 +1,9 @@
+{
+    "episode_id": 1779892745,
+    "step": 3,
+    "action": "type_query",
+    "target": "football shorts",
+    "reward": 10,
+    "success": true,
+    "timestamp": 1779892783
+}

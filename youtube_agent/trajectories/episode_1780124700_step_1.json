@@ -1,0 +1,19 @@
+{
+    "episode_id": 1780124700,
+    "step": 1,
+    "action": "like_reel",
+    "target": "reel_1",
+    "reward": -5,
+    "success": false,
+    "timestamp": 1780124700,
+    "x": 986,
+    "y": 1591,
+    "confidence": 0.574894905090332,
+    "class_name": "ImageButton",
+    "bbox": [
+        953,
+        1558,
+        1020,
+        1624
+    ]
+}

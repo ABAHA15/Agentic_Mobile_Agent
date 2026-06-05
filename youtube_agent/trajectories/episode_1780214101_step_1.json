@@ -1,0 +1,28 @@
+{
+    "episode_id": 1780214101,
+    "step": 1,
+    "action": "subscribe_reel",
+    "target": "reel_1",
+    "reward": 10,
+    "success": true,
+    "timestamp": 1780214101,
+    "x": 558,
+    "y": 1934,
+    "confidence": 1.0,
+    "class_name": "Subscribe",
+    "bbox": null,
+    "state": [
+        538.0,
+        1954.0,
+        1.0,
+        1.0
+    ],
+    "action_id": 6,
+    "next_state": [
+        558.0,
+        1934.0,
+        1.0,
+        2.0
+    ],
+    "done": false
+}

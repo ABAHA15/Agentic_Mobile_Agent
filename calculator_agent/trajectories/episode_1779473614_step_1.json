@@ -1,0 +1,19 @@
+{
+    "episode_id": 1779473614,
+    "expression": "8",
+    "step": 1,
+    "target": "8",
+    "expected": "8",
+    "observed": "11.45M005918Tce=C89456123+I-02",
+    "coordinate": [
+        404,
+        1459
+    ],
+    "predicted_coordinate": [
+        404,
+        1459
+    ],
+    "reward": 10,
+    "success": true,
+    "timestamp": 1779473745
+}
